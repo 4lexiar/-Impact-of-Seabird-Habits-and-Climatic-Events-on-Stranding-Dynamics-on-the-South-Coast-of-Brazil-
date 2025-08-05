@@ -1,1 +1,3 @@
 # -Impact-of-Seabird-Habits-and-Climatic-Events-on-Stranding-Dynamics-on-the-South-Coast-of-Brazil-
+
+This project explores how seabird behavioral ecology and climatic events influence stranding patterns along the southern coast of Brazil. Using long-term monitoring data, it aims to investigate spatial and temporal trends in strandings in relation to species-specific habits, life history stages, and climate variability, particularly ENSO phases (El Niño and La Niña). The objective is to better understand how seabirds respond to environmental disturbances and to support future conservation planning.
